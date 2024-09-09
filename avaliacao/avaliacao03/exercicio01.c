@@ -1,4 +1,4 @@
-#include <stdio.h>
+=#include <stdio.h>
 #include <math.h>
 
 // move o cursor para a posição (x,y) do console
